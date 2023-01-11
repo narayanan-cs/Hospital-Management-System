@@ -1,0 +1,18 @@
+Hospital consists of 
+departments,
+reception/billing counter for each department, 
+OP theatre for each department,
+Emergency ward for each department,
+ ICU, 
+ OP rooms for doctors, 
+ IP wards.
+1 or >1 departments in each floor
+restrooms on each floor
+medical equipment(Map)
+rooms for patient attendees
+
+reception allots slots to patients
+          bills patients  
+I wrote code
+All aretypes only except recpetionist allotting slots and billing visitors.
+SO not going further.
